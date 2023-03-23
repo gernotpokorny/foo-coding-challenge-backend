@@ -8,7 +8,7 @@ The frontend can be found within the [`foo-coding-challange`][1] repo.
 
 The Coding Challenge is anonymized in the sense that the company name will not be disclosed.
 
-[1]: https://github.com/gernotpokorny/regionalmedien-coding-challenge
+[1]: https://github.com/gernotpokorny/foo-coding-challange
 
 ## Compile and start during development
 
